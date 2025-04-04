@@ -1,7 +1,3 @@
-import 'usuario.dart';
-import 'biblioteca.dart';
-
-
 class Livro {
   String titulo;
   String autor;
