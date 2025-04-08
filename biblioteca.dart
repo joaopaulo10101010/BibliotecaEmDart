@@ -70,7 +70,7 @@ class Biblioteca {
         Emprestado = true;
       }
     });
-    return false;
+    return Emprestado;
   }
 
   // FUNÇÃO PARA ADICIONAR O LIVRO NO ESTOQUE DA BIBLIOTECA
